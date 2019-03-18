@@ -8,3 +8,5 @@ def subtrair(x,y):
 n2 = int(input("Informe n2: "))
 
 somar(n1,n2)'''
+def mult():
+    pass
