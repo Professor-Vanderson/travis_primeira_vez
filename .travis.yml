@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.6"
+# command to run tests
+script:
+  - teste.py
+after script:
+notifications:
+  recipients:
+    - vanderson.bossi@faculdadeimpacta.com.br
